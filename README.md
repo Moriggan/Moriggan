@@ -31,6 +31,3 @@ A tool designed to detect and report crash issues in Minecraft, aiding developer
 ### [Albedo-Music-BOT](https://github.com/Moriggan/Albedo-Music-BOT)
 A music bot for Discord, capable of streaming songs from YouTube, enhancing the auditory experience for server members.
 
-### [Root-Eslacation-Commands](https://github.com/Moriggan/Root-Eslacation-Commands)
-A collection of commands aimed at root escalation, useful for penetration testing and security assessments.
-
