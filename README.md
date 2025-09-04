@@ -4,12 +4,11 @@
 ---
 
 ## 🔥 About Me
-I specialize in developing secure, efficient, and user-friendly applications. With a strong foundation in both development and cybersecurity, I aim to bridge the gap between robust software solutions and proactive security measures.
+I'm 22 Years Old,Learning Lot of Stuff,I Like Doing and Developing APP's Python,and Developing Stuff on JavaScript,I'm Also CyberSecurity Guy,Learning Defensive Stuff and Maybe Offensive little bit too xD.
 
-- 🌱 Currently exploring **AI-driven cybersecurity tools** and **cross-platform app development**
+- 🌱 Currently exploring **AI-driven cybersecurity tools** and **cross-platform app developments**
 - 💻 Tech stack: `Web Dev`, `Java Dev`, `Python Dev`, `Node.js`, `JavaScript`, `Bash Scripting`
 - 🛡️ Security interests: `Penetration Testing`
-- 📫 Contact me: [Email](mailto:youremail@example.com)
 
 ---
 
