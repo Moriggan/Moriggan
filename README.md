@@ -31,3 +31,6 @@ A tool designed to detect and report crash issues in Minecraft, aiding developer
 ### [Albedo-Music-BOT](https://github.com/Moriggan/Albedo-Music-BOT)
 A music bot for Discord, capable of streaming songs from YouTube, enhancing the auditory experience for server members.
 
+### [MadScan](https://github.com/Moriggan/MadScan-IPS)
+Tool Designed To Scan Packets In Real Time,Control System for Malicious Stuff.
+
